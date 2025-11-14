@@ -91,6 +91,8 @@ Good luck with your CCNA exam! Keep studying hard! 🚀
 
 This project is licensed under the **MIT License**. Feel free to copy, modify, and share these notes for personal study, but please reference the original repository.
 
+<br>
+
 <p align="center">
   <img src="Images/banner2.png" width="100%" />
 </p>
