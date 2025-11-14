@@ -11,7 +11,9 @@ The purpose of this repository is to:
 
 >Help fellow CCNA students with notes and practical examples
 
-
+<br>
+<br>
+<br>
 ## 🗺️ **REPOSITORY STRUCTURE**
 
 The notes are organized following the official 200-301 exam topic domains:
