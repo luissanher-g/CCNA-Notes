@@ -34,13 +34,13 @@ The notes are organized following the official 200-301 exam topic domains:
 
 This material is primarily based on:
 
- >Official Cisco material.
+ * **Official Cisco material.**
  
- >OCG (Official Certification Guide) textbooks.
+ * **OCG (Official Certification Guide) textbooks.**
 
- >Online training courses (e.g., Jeremy's IT Lab, David Bombal).
+ * **Online training courses (e.g., Jeremy's IT Lab, David Bombal).**
 
- >Cisco documentation.
+ * **Cisco documentation.**
 
 <br>
 
