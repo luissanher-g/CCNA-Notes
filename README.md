@@ -1,5 +1,5 @@
 # 📚 CCNA 200-301 Study Notes & Resources
-Welcome! This repository contains my personal notes, summaries, and resources compiled while preparing for the Cisco Certified Network Associate (CCNA 200-301) certification exam.
+Welcome! This repository contains my personal notes, summaries, and resources compiled while preparing for the Cisco Certified Network Associate (CCNA 200-301) certification exam. All notes are being created using Obsidian, leveraging its Markdown format and interlinking capabilities to aid in studying.
 
 🎯 The purpose of this repository is to:
 
