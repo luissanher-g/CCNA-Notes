@@ -19,6 +19,8 @@ The purpose of this repository is to:
 The notes are organized following the official 200-301 exam topic domains:
 ...
 
+<br>
+<br>
 
 ## **🛠️ HOW TO USE**
 
@@ -26,6 +28,8 @@ The notes are organized following the official 200-301 exam topic domains:
 2. Contribute (Optional): If you find an error or have a clearer way to explain a concept, feel free to open a Pull Request!
 3. Labs: Check the Labs/ section for configuration examples of key Cisco IOS commands (often referencing Packet Tracer files).
 
+<br>
+<br>
 
 ## 📝 **KEY REFERENCES**
 
@@ -39,6 +43,8 @@ This material is primarily based on:
 
  >Cisco documentation.
 
+<br>
+<br>
 
 ## 🤝 **CONECT**
 
