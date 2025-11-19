@@ -26,7 +26,7 @@ To effectively use these notes and run the lab configurations, you will need:
 * [🎯 Goal](#-goal)
 * [🗺️ Repository Structure](#️-repository-structure)
 * [🛠️ How to Use These Notes](#️-how-to-use)
-* [📝 Key References](#️-key-references)
+* [📝 References](#️-references)
 * [🤝 Contact](#️-contact)
 * [⚖️ License](#️-license)
 
@@ -59,7 +59,7 @@ The notes are organized following the official 200-301 exam topic domains:
 
 <br>
 
-## 📝 **KEY REFERENCES**
+## 📝 **REFERENCES**
 
 This material is primarily based on:
 
