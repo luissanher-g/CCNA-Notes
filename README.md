@@ -27,8 +27,8 @@ To effectively use these notes and run the lab configurations, you will need:
 * [🗺️ Repository Structure](#️-repository-structure)
 * [🛠️ How to Use These Notes](#️-how-to-use)
 * [📝 Key References](#️-key-references)
-* [🤝 Contact](#️contact)
-* [⚖️ License](#️license)
+* [🤝 Contact](#️-contact)
+* [⚖️ License](#️-license)
 
 <br>
 
@@ -73,7 +73,7 @@ This material is primarily based on:
 
 <br>
 
-## 🤝 **CONECT**
+## 🤝 **CONTACT**
 
 If you have any questions or want to connect with other students:
 
